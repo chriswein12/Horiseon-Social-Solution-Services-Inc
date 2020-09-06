@@ -51,8 +51,9 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
+/* Styling for the header ends here */
 
-/* Styling for the hero starts here */
+/* Styling for the hero section*/
 .hero {
     height: 800px;
     width: 100%;
@@ -62,7 +63,7 @@ p {
     background-position: center;
 }
 
-/* Placing the images on either the right/left side of the block*/
+/* Styling for the services the company provides section starts here*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -73,7 +74,6 @@ p {
     margin-left: 25px;
 }
 
-/* Styling for the left side values */
 .content {
     width: 75%;
     display: inline-block;
@@ -133,6 +133,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Styling for the services the company provides section ends here */
 
 /* Styling for the benefits section starts here */
 .benefits {
@@ -193,6 +194,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Styling for the benefits section ends here */
 
 /*Styling for footer starts here*/
 .footer {
@@ -205,3 +207,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*Styling for footer end here*/
