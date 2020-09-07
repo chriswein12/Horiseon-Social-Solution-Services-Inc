@@ -53,7 +53,7 @@ p {
 }
 /* Styling for the header ends here */
 
-/* Styling for the hero section*/
+/* Styling for the hero section starts here*/
 .hero {
     height: 800px;
     width: 100%;
@@ -62,6 +62,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Styling for the hero section ends here*/
 
 /* Styling for the services the company provides section starts here*/
 .float-left {
